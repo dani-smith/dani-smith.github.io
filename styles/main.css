@@ -1,12 +1,9 @@
 body{ 
-   background-color: rgb(70, 1, 70);
+   background-color: rgb(228, 133, 8);
 }
 text{
-    color: rgb(239, 240, 241);
-}
-text{
-    font-family: 'Courier New', Courier, monospace;font-size: small;
+   color: rgb(25, 25, 26);
 }
 footer{
-    color: black;
+   color: black;
 }
