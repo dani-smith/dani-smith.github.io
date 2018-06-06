@@ -4,3 +4,6 @@ body{
 text{
     color: rgb(34, 42, 49);
 }
+text{
+    font-family: 'Courier New', Courier, monospace;font-size: small; 
+}
