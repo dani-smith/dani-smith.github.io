@@ -1,9 +1,12 @@
 body{ 
-   background-color: aquamarine;
+   background-color: rgb(70, 1, 70);
 }
 text{
-    color: rgb(34, 42, 49);
+    color: rgb(239, 240, 241);
 }
 text{
-    font-family: 'Courier New', Courier, monospace;font-size: small; 
+    font-family: 'Courier New', Courier, monospace;font-size: small;
+}
+footer{
+    color: black;
 }
