@@ -4,6 +4,9 @@ body{
 p{
    color: rgb(240, 239, 239);
 }
-H1{
+h1{
     color: rgb(233, 157, 15);
+ }
+ a{
+    color: rgb(240, 239, 239);
  }
