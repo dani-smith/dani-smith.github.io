@@ -1,5 +1,6 @@
 body{ 
    background-color: #ebeaec;
+   background: url(layer-frame.svg) no-repeat center 567px;
 }
 p{
    color: #2a2a2b;
