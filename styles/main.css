@@ -1,8 +1,7 @@
 .header{
-    color:#7C8B88; 
     max-width: 705px;
     margin-left: 30px;
-    background: #2a2a2b
+    background: #6200ee
     }
 * {
      -webkit-box-sizing: border-box;
@@ -19,7 +18,7 @@ p{
    color: #2a2a2b;
 }
 h1{
-   color: #6200ee;
+   color: #ebeaec;
  }
  h2{
     color: #3700b3;
