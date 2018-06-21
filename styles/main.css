@@ -23,7 +23,7 @@
 }
 
 .row {
-    max-width: 85%;
+    max-width: 100%;
     margin-bottom: 20px;
     display: flex; flex-wrap: wrap;
 }
@@ -32,6 +32,11 @@
     display: flex; flex-wrap: wrap;
     position: center;
     max-width: 100%;
+}
+
+caption {
+    text-align: center;
+    vertical-align: center;
 }
 
 
