@@ -51,6 +51,7 @@ caption {
 .col-3 {
     width: 25%;
     vertical-align: middle;
+    text-align: center;
 }
 
 .col-4 {
@@ -132,6 +133,8 @@ h2 {
     padding-left: 20px;
     padding-right: 20px;
     font-weight: bold;
+
+    
 }
 p {
     padding-top: 20px;
