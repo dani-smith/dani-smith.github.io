@@ -20,12 +20,14 @@
     max-width: 1200px;
     width: 85%;
     padding-top: 20px;
+    align-content: center;
 }
 
 .row {
     max-width: 100%;
     margin-bottom: 20px;
-    display: flex; flex-wrap: wrap;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .mainimage {
