@@ -59,7 +59,8 @@ caption {
     width: 25%;
     vertical-align: middle;
     text-align: center;
-    font-family: 'Lato', sans-serif
+    font-family: 'Lato', sans-serif;
+    padding: 20px;
 }
 
 .col-4 {
@@ -95,6 +96,7 @@ caption {
 
 .col-9 {
     width: 75%;
+    padding: 20px;
 }
 
 .col-10 {
